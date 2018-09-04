@@ -1,2 +1,2 @@
-# 100-Days-Machine-Learning-Code
-I would be code Machine Learning 
+# machine-learning
+Tutorials for Machine Learning.
