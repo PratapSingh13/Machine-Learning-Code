@@ -1,2 +1,2 @@
 # machine-learning
-Tutorials for Machine Learning.
+Coding for  Machine Learning.
