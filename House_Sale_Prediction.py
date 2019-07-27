@@ -32,6 +32,7 @@ num_features = get_features(df, "num")
 columns_with_na_values = df.columns[df.isnull().any()]
 num_features_without_na = [x for x in num_features if x not in columns_with_na_values]
 
+
 print("Numerical features without missing values in train.csv and test.csv:")
 print(num_features_without_na)
 
